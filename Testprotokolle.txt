@@ -1,0 +1,445 @@
+Tests
+1)
+    With how many words do you want to play? (at least 1, at most 10)
+    r  
+    Invalid input. With how many words do you want to play? (at least 1, at most 10) 
+    11
+    Invalid input. With how many words do you want to play? (at least 1, at most 10) 
+    -3
+    Invalid input. With how many words do you want to play? (at least 1, at most 10) 
+    2
+    Which word do you want to have on hangman #1? 
+    code
+    Which word do you want to have on hangman #2? 
+    ace
+
+    Word 1:
+    .... (4)
+    ________
+    |      |
+    |
+    |
+    |
+    |
+    _|_
+    Remaining lives: 4
+
+    Word 2:
+    ... (3)
+    ________
+    |      |
+    |
+    |
+    |
+    |
+    _|_
+    Remaining lives: 4
+
+    Which word (number) do you want to play?
+    r
+    Invalid input. Which word (number) do you want to play?
+    1
+    Which letter do you want to guess?
+    4
+    Invalid input. Which letter do you want to guess?
+    a
+    Word 1:
+    .... (4)
+    ________
+    |      |
+    |      O
+    |
+    |
+    |
+    _|_
+    Remaining lives: 3
+
+    Word 2:
+    ... (3)
+    ________
+    |      |
+    |
+    |
+    |
+    |
+    _|_
+    Remaining lives: 4
+
+    Which word (number) do you want to play?
+    3
+    Invalid input. Which word (number) do you want to play?
+    0
+    Invalid input. Which word (number) do you want to play?
+    2
+    Which letter do you want to guess?
+    a
+    Word 1:
+    .... (4)
+    ________
+    |      |
+    |      O
+    |
+    |
+    |
+    _|_
+    Remaining lives: 3
+
+    Word 2:
+    A.. (3)
+    ________
+    |      |
+    |
+    |
+    |
+    |
+    _|_
+    Remaining lives: 4
+
+    Which word (number) do you want to play?
+    2
+    Which letter do you want to guess?
+    c
+    Word 1:
+    .... (4)
+    ________
+    |      |
+    |      O
+    |
+    |
+    |
+    _|_
+    Remaining lives: 3
+
+    Word 2:
+    AC. (3)
+    ________
+    |      |
+    |
+    |
+    |
+    |
+    _|_
+    Remaining lives: 4
+
+    Which word (number) do you want to play?
+    2
+    Which letter do you want to guess?
+    e
+    Word 1:
+    .... (4)
+    ________
+    |      |
+    |      O
+    |
+    |
+    |
+    _|_
+    Remaining lives: 3
+
+    Word 2:
+    ACE (3)
+    ________
+    |      |
+    |
+    |
+    |
+    |
+    _|_
+    Remaining lives: 4
+
+    Which word (number) do you want to play?
+    2
+    Which letter do you want to guess?
+    r
+    Word 1:
+    .... (4)
+    ________
+    |      |
+    |      O
+    |
+    |
+    |
+    _|_
+    Remaining lives: 3
+
+    Word 2:
+    ACE (3)
+    ________
+    |      |
+    |
+    |
+    |
+    |
+    _|_
+    Remaining lives: 4
+
+    Which word (number) do you want to play?
+    1
+    Which letter do you want to guess?
+    c
+    Word 1:
+    C... (4)
+    ________
+    |      |
+    |      O
+    |
+    |
+    |
+    _|_
+    Remaining lives: 3
+
+    Word 2:
+    ACE (3)
+    ________
+    |      |
+    |
+    |
+    |
+    |
+    _|_
+    Remaining lives: 4
+
+    Which word (number) do you want to play?
+    1
+    Which letter do you want to guess?
+    c
+    Word 1:
+    C... (4)
+    ________
+    |      |
+    |      O
+    |
+    |
+    |
+    _|_
+    Remaining lives: 3
+
+    Word 2:
+    ACE (3)
+    ________
+    |      |
+    |
+    |
+    |
+    |
+    _|_
+    Remaining lives: 4
+
+    Which word (number) do you want to play?
+    c
+    Invalid input. Which word (number) do you want to play?
+    1
+    Which letter do you want to guess?
+    o
+    Word 1:
+    CO.. (4)
+    ________
+    |      |
+    |      O
+    |
+    |
+    |
+    _|_
+    Remaining lives: 3
+
+    Word 2:
+    ACE (3)
+    ________
+    |      |
+    |
+    |
+    |
+    |
+    _|_
+    Remaining lives: 4
+
+    Which word (number) do you want to play?
+    1
+    Which letter do you want to guess?
+    d
+    Word 1:
+    COD. (4)
+    ________
+    |      |
+    |      O
+    |
+    |
+    |
+    _|_
+    Remaining lives: 3
+
+    Word 2:
+    ACE (3)
+    ________
+    |      |
+    |
+    |
+    |
+    |
+    _|_
+    Remaining lives: 4
+
+    Which word (number) do you want to play?
+    1
+    Which letter do you want to guess?
+    a
+    Word 1:
+    COD. (4)
+    ________
+    |      |
+    |      O
+    |      |
+    |
+    |
+    _|_
+    Remaining lives: 2
+
+    Word 2:
+    ACE (3)
+    ________
+    |      |
+    |
+    |
+    |
+    |
+    _|_
+    Remaining lives: 4
+
+    Which word (number) do you want to play?
+    1
+    Which letter do you want to guess?
+    a
+    Word 1:
+    COD. (4)
+    ________
+    |      |
+    |      O
+    |     /|\
+    |
+    |
+    _|_
+    Remaining lives: 1
+
+    Word 2:
+    ACE (3)
+    ________
+    |      |
+    |
+    |
+    |
+    |
+    _|_
+    Remaining lives: 4
+
+    Which word (number) do you want to play?
+    1
+    Which letter do you want to guess?
+    a
+    Word 1:
+    COD. (4)
+    ________
+    |      |
+    |      O
+    |     /|\
+    |     / \
+    |
+    _|_
+    Remaining lives: 0
+
+    Word 2:
+    ACE (3)
+    ________
+    |      |
+    |
+    |
+    |
+    |
+    _|_
+    Remaining lives: 4
+
+    You lost! You won 1 word(s)
+
+
+
+
+
+
+
+2)
+    With how many words do you want to play? (at least 1, at most 10) 
+    1
+    Which word do you want to have on hangman #1? 
+    solo
+
+    Word 1:
+    .... (4)
+    ________
+    |      |
+    |
+    |
+    |
+    |
+    _|_
+    Remaining lives: 4
+
+    Which word (number) do you want to play?
+    1
+    Which letter do you want to guess?
+    o
+    Word 1:
+    .O.O (4)
+    ________
+    |      |
+    |
+    |
+    |
+    |
+    _|_
+    Remaining lives: 4
+
+    Which word (number) do you want to play?
+    1 
+    Which letter do you want to guess?
+    u
+    Word 1:
+    .O.O (4)
+    ________
+    |      |
+    |      O
+    |
+    |
+    |
+    _|_
+    Remaining lives: 3
+
+    Which word (number) do you want to play?
+    1
+    Which letter do you want to guess?
+    s
+    Word 1:
+    SO.O (4)
+    ________
+    |      |
+    |      O
+    |
+    |
+    |
+    _|_
+    Remaining lives: 3
+
+    Which word (number) do you want to play?
+    1
+    Which letter do you want to guess?
+    l
+    Word 1:
+    SOLO (4)
+    ________
+    |      |
+    |      O
+    |
+    |
+    |
+    _|_
+    Remaining lives: 3
+
+    You won! All words were guessed right.
